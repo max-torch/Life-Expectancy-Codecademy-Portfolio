@@ -90,7 +90,7 @@ For Predictive Statistical Modelling, considering the diminishing effect when vi
 
 # Suggested Viewing
 [DON'T PANIC — Hans Rosling showing the facts about population](https://youtu.be/FACK2knC08E).
-A highlight of the talk, which ties in to the points made here, is at the 36:00 mark, Hans Rosling begins explaining how a relatively small amount of money makes a significantly large amount of difference for people in the developing world.
+A highlight of the talk, which ties in to the points made here, is at the 36:00 mark. Hans Rosling begins explaining how a relatively small amount of money makes a significantly large amount of difference for people in the developing world.
 
 # References
 
