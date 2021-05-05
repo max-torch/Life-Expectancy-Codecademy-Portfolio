@@ -28,6 +28,13 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+![fig1](fig1.png)
+![fig2](fig2.png)
+![fig3](fig3.png)
+![fig4](fig4.png)
+![fig5](fig5.png)
+![fig6](fig6.png)
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/max-torch/Life-Expectancy-Codecademy-Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
@@ -39,9 +46,3 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <iframe src="China_GDP.html" width="800" height="600" title="China GDP" style="border:none"></iframe>
 <iframe src="All_countries_scatter.html" width="800" height="600" title="All_Countries_Scatter" style="border:none"></iframe>
 <iframe src="WorldMap.html" width="800" height="600" title="World_Map" style="border:none"></iframe>
-![fig1](fig1.png)
-![fig2](fig2.png)
-![fig3](fig3.png)
-![fig4](fig4.png)
-![fig5](fig5.png)
-![fig6](fig6.png)
