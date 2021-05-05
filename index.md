@@ -20,8 +20,9 @@ This is a project which explores and analyzes a single dataset containing Life E
 * **Correlation Coefficient** (Pearson Correlation), A measure of linear association between two variables.Values of the correlation coefficient are always between −1 and +1. A correlation coefficient of +1 indicates that two variables are perfectly related in a positive linear sense, a correlation coefficient of −1 indicates that two variables are perfectly related in a negative linear sense, and a correlation coefficient of 0 indicates that there is no linear relationship between the two variables.[<sup>3</sup>](https://www.britannica.com/science/statistics/Residual-analysis#ref367510) 
 
 # Countries by Geography
-
+%%html
 <iframe src="WorldMap.html" width="800" height="600" title="World_Map" style="border:none"></iframe>
+
 
 The six countries in the set are spread out over different continents and regions of the world.
 
