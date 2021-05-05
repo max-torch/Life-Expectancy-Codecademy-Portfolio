@@ -1,4 +1,3 @@
-Project Author: Alexander Lacson<br>
 Data Source: Acquired from [Codecademy](https://www.codecademy.com/learn), which says the data is "from the World Health Organization and the World Bank".
 
 # Project Description
