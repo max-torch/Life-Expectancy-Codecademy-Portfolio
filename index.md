@@ -36,4 +36,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-<iframe src="China_GDP.html" width="800" height="600" title="parallel coordinate chart with plotly" style="border:none"></iframe>
+<iframe src="China_GDP.html" width="800" height="600" title="China GDP" style="border:none"></iframe>
+<iframe src="All_countries_scatter.html" width="800" height="600" title="All_Countries_Scatter" style="border:none"></iframe>
+<iframe src="WorldMap.html" width="800" height="600" title="World_Map" style="border:none"></iframe>
+![fig1]('fig1.png')
+![fig2]('fig2.png')
+![fig3]('fig3.png')
+![fig4]('fig4.png')
+![fig5]('fig5.png')
+![fig6]('fig6.png')
