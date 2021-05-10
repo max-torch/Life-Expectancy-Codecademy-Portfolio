@@ -1,3 +1,4 @@
+Project Author: Alexander Lacson
 Data Source: Acquired from [Codecademy](https://www.codecademy.com/learn), which says the data is "from the World Health Organization and the World Bank".
 
 # Project Description
@@ -70,7 +71,7 @@ The above plot is interactive.
 * You can drag windows over regions to zoom in. 
 * You can double click on the legends to show only that legend item. Double-click again to show all legend items. 
 * You can right-click on legends to toggle them on and off in the plot. 
-* You can get information for each point on mouse hover.
+* You can get information for each point on mouse hover. The equivalent of mouse hover on mobile is _tap and hold_
 
 Let us focus our attention on the slopes of the regression lines of each country. We can see that it differs by country. The **slope tells us how much of an effect GDP is having on life expectancy**. As we move from left to right on the plot, we can clearly see that the slopes shift from vertical to horizontal. This can be understood as 'Countries with low GDP see great gains in life expectancy for every increase in GDP, but as countries start to have larger GDPs, they have to acquire more GDP to get the same effect on life expectancy'. It seems to bear some resemblance to the [law of diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns). **This is a reason to give support to developing nations. Small economic improvements they make goes a long way towards improving lives.** This would justify institutions like the World Bank. The World Bank is an international organization that offers developmental assistance to middle-income and low-income countries.[<sup>5</sup>](https://www.investopedia.com/articles/world-bank-definition/) 
 
