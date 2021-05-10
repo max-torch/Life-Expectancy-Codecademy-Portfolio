@@ -53,7 +53,7 @@ We can see that the US has a significantly larger economy. We can also see that 
 
 ![png](fig5.png)
 
-The r-scores tell us that there is a very strong positive correlation between life expectancy and GDP for each country **with respect to its own population**. The Life expectancy of the citizens of a country is a function of that country's own GDP. Keep in mind, the **r-score only tells us the strength of the association** between GDP and life expectancy. It does not tell us how much of an effect GDP is having on life expectancy.
+The r-scores tell us that there is a very strong positive correlation between life expectancy and GDP for each country **with respect to its own population**. The Life expectancy of the citizens of a country is a function of that country's own GDP. Keep in mind, the **r-score only tells us the strength of the association** between GDP and life expectancy. It does not tell us how quickly Life Expectancy increases as GDP increases.
 
 <iframe src="China_GDP.html" width="800" height="600" title="China GDP" style="border:none"></iframe>
 
@@ -73,7 +73,7 @@ The above plot is interactive.
 * You can right-click on legends to toggle them on and off in the plot. 
 * You can get information for each point on mouse hover. The equivalent of mouse hover on mobile is _tap and hold_
 
-Let us focus our attention on the slopes of the regression lines of each country. We can see that it differs by country. The **slope tells us how much of an effect GDP is having on life expectancy**. As we move from left to right on the plot, we can clearly see that the slopes shift from vertical to horizontal. This can be understood as 'Countries with low GDP see great gains in life expectancy for every increase in GDP, but as countries start to have larger GDPs, they have to acquire more GDP to get the same effect on life expectancy'. It seems to bear some resemblance to the [law of diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns). **This is a reason to give support to developing nations. Small economic improvements they make goes a long way towards improving lives.** This would justify institutions like the World Bank. The World Bank is an international organization that offers developmental assistance to middle-income and low-income countries.[<sup>5</sup>](https://www.investopedia.com/articles/world-bank-definition/) 
+Let us focus our attention on the slopes of the regression lines of each country. We can see that it differs by country. The **slope tells us how how quickly Life Expectancy increases as GDP increases**. As we move from left to right on the plot, we can clearly see that the slopes shift from vertical to horizontal. This can be understood as 'Countries with low GDP see great gains in life expectancy for every increase in GDP, but as countries start to have larger GDPs, they have to acquire more GDP to get the same effect on life expectancy'. It seems to bear some resemblance to the [law of diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns). **This is a reason to give support to developing nations. Small economic improvements they make goes a long way towards improving lives.** This would justify institutions like the World Bank. The World Bank is an international organization that offers developmental assistance to middle-income and low-income countries.[<sup>5</sup>](https://www.investopedia.com/articles/world-bank-definition/) 
 
 # Predictive Modelling Suggestions
 
