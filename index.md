@@ -20,7 +20,7 @@ This is a project which explores and analyzes a single dataset containing Life E
 
 # Countries by Geography
 
-<iframe src="WorldMap.html" width="800" height="600" title="World_Map" style="border:none"></iframe>
+<iframe src="WorldMap.html" width="100%" height="600" title="World_Map" style="border:none"></iframe>
 
 
 The six countries in the set are spread out over different continents and regions of the world.
@@ -55,7 +55,7 @@ We can see that the US has a significantly larger economy. We can also see that 
 
 The r-scores tell us that there is a very strong positive correlation between life expectancy and GDP for each country **with respect to its own population**. The Life expectancy of the citizens of a country is a function of that country's own GDP. Keep in mind, the **r-score only tells us the strength of the association** between GDP and life expectancy. It does not tell us how quickly Life Expectancy increases as GDP increases.
 
-<iframe src="China_GDP.html" width="800" height="600" title="China GDP" style="border:none"></iframe>
+<iframe src="China_GDP.html" width="100%" height="600" title="China GDP" style="border:none"></iframe>
 
 Zooming in on China, we can see that it actually consists of two GDP vs Life Expectancy Regression lines. It has a steeper slope in the years 2000-2006, and then suddenly transitions to a more horizontal slope in the years 2006-2015. This seems to act like a 'missing link' in our data, showing that at some point a country's GDP vs Life Expectancy relationship transitions from a steep to flat line.
 
@@ -65,7 +65,7 @@ Unlike the previously calculated r-score of 0.91, the calculated r-score of the 
 
 Not all countries have the same magnitude of correlation between life expectancy and GDP. It could mean that for some countries, the health of its citizens is not as dependent on how well its economy is doing compared to other countries. Perhaps the climate, food, environment, political, and geographical factors are having larger influences.
 
-<iframe src="All_countries_scatter.html" width="800" height="600" title="All_countries_scatter" style="border:none"></iframe>
+<iframe src="All_countries_scatter.html" width="100%" height="600" title="All_countries_scatter" style="border:none"></iframe>
 
 The above plot is interactive. 
 * You can drag windows over regions to zoom in. 
